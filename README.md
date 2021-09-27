@@ -1,8 +1,8 @@
 
-<h1 align="centre"> MOTIMUSIC  </h1> 
+<h1 align="centre"> 🎵MOTIMUSIC🎵  </h1> 
 
-### A bot that can play music on Telegram Group and Channel Voice Chats
-#### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
+### A MOTI MUSIC bot that can play music on Telegram Group and Channel Voice Chats
+#### POWERED BY [CHANNEL](https://t.me/ishq_wala_love)
 ### Available on telegram as [@Moti_music_robot](https://t.me/Moti_music_robot)
 
 <p align="center">
@@ -37,11 +37,17 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
 
+## 🎥Tutorial🎥
 
- [🔔Watch tutorial MOTI MUSIC on YOUTUBE 🔔](https://youtube.com/channel/UCNVDY2Q66G3zf5_mm1MMyLw)
 
 
-### Commands for Group 🛠
+# [🔔Watch tutorial MOTI MUSIC on YOUTUBE 🔔](https://youtube.com/channel/UCNVDY2Q66G3zf5_mm1MMyLw)
+
+
+
+
+
+## 🔥Commands for Group🛠️
 #### For all in group
 
 - `/play <song name>` - play song you requested
@@ -117,5 +123,7 @@ MOTI MUSIC
 
 ### Available [🔥Telegram Channel🔥](https://t.me/ishq_wala_love)
 
-#### Contributors
-- [👑🌹ATTITUDE KING🌹👑](https://t.me/alone_shaurya_king): Dev / Owner
+## 🔱OWNER🔱
+
+
+### [👑🌹ATTITUDE KING🌹👑](https://t.me/alone_shaurya_king)
