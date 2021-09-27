@@ -1,12 +1,12 @@
-# moti_music
-<h1 align="centre"> DAISYXMUSIC V5.5 🎵 </h1> 
+#moti_music
+<h1 align="centre"> MOTIMUSIC V5.5 🎵 </h1> 
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
-### Available on telegram as [@DaisyXbot](https://t.me/daisyxbot)
+### Available on telegram as [@Moti_music_robot](https://t.me/Moti_music_robot)
 
 <p align="center">
-  <img src="https://telegra.ph/file/dd04b1968f1bc1169d162.jpg">
+  <img src="https://telegra.ph/file/d094ffd83b69a33fb5d66.jpg">
 </p>
 
 > ⭐️ Thanks to everyone who starred DaisyXMusic, That is the greatest pleasure we have !
@@ -51,7 +51,7 @@ $ npm i -g npm
 $ python3 -m DaisyXMusic
 ```
 
-[Watch Tutorial on hosting DaisyXMusic on VPS](https://youtu.be/MdavNbazT7Q)
+[Watch Tutorial on hosting DaisyXMusic on VPS](https://youtube.com/channel/UCNVDY2Q66G3zf5_mm1MMyLw)
 
 
 ### Commands for Group 🛠
@@ -128,7 +128,7 @@ If you donlt like to play in linked channel:
 DaisyXMusic is a hardwork of many people. Many contributors and open source projects (Specially callsmusic projects) helped a lot in this. 
 
 #### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
+- [👑🌹ATTITUDE KING🌹👑](https://t.me/alone_shaurya_king): Dev / Owner
 - [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
 - [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
 - [Hellboy-OP](https://github.com/hellboy-op)
